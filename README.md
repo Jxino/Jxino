@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jinho Kim</h1>
-<h3 align="center">Aspiring Full-Stack Developer with a Versatile Mindset India</h3>
+<h3 align="center">Aspiring Full-Stack Developer with a Versatile Mindset</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
