@@ -17,3 +17,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jxino&show_icons=true&locale=en" alt="jxino" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jxino&" alt="jxino" /></p>
+## 📊 GitHub Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jxino&theme=github-compact)
